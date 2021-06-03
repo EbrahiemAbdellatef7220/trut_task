@@ -1,0 +1,19 @@
+.table-condensed-mgm {
+    border: 1px solid black;
+    font-family: VIP-Hakm-Regular !important;
+    text-align: center !important;
+}
+
+.table-condensed-mgm > tbody > tr {
+    border: 1px solid black;
+}
+
+.table-condensed-mgm > tbody > tr > th {
+    border: 1px solid black;
+}
+
+.table-condensed-mgm > tbody > tr > td {
+    border: 1px solid black;
+}
+
+/*# sourceMappingURL=table_mgm.css.map */

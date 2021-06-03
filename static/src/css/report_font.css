@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sharjah';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/SC_SHARJAH.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'VIP-Hakm-Regular';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/VIP-Hakm-Regular-2016.ttf) format('truetype');
+}

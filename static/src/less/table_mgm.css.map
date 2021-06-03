@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [
+    "table_mgm.less"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACI,uBAAA;EACA,6BAAA;EACA,6BAAA;;AAHJ,oBAII,QAAQ;EACN,uBAAA;;AALN,oBAOI,QAAQ,KAAK;EACX,uBAAA;;AARN,oBAUI,QAAQ,KAAK;EACX,uBAAA",
+  "file": "table_mgm.css"
+}
